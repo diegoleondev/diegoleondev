@@ -1,11 +1,16 @@
-### Hola 👋
+# ¡Hola! 👋
 
-Actualmente me dedico al desarrollo de servicios de Front-End utilizando React.js y Next.js.
+Soy un desarrollador Full Stack especializado en React y Next.js.
 
-### Mi Filosofía de desarrollo
+## Experiencia Laboral
 
-Me baso en la simplicidad y el minimalismo. Creo firmemente que con menos, podemos lograr más y que la complejidad excesiva no siempre es mejor.
+- **Caebes:** Desarrollador Full Stack (2023)
+- **Univex:** Jefe de Desarrollo Técnico (2023)
 
-### Mi compromiso con los Usuarios
+## Mi Filosofía de Desarrollo
 
-Creo que la esencia de la tecnología no es controlarnos, sino adaptarse a las necesidades de los usuarios para ofrecerles la mejor experiencia posible al interactuar con los servicios que desarrollamos. Estoy altamente comprometido con asegurar que los servicios que creo sean fáciles de usar, intuitivos y que brinden un valor real a los usuarios.
+Mi enfoque se basa en la simplicidad y el minimalismo. Creo firmemente que con menos complejidad se pueden lograr resultados más efectivos. 
+
+## Compromiso con los Usuarios
+
+Me comprometo a diseñar y desarrollar servicios que sean fáciles de usar, intuitivos y que proporcionen un valor real a los usuarios.
